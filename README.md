@@ -4,9 +4,9 @@ Project demonstrating how the font of the Window title can be controlled when us
 
 Project Notes
 -------------
-The code is checked in as an [Eclipse](http://www.eclipse.org) project and is configured with the [Maven][Maven] nature (using the [m2e](http://www.eclipse.org/m2e/) plugin). The project has the following dependencies:
+The code was written for Java 7 and is configured as an [Eclipse](http://www.eclipse.org) project. It requires the following libraries:
 
-* [MigLayout](http://www.miglayout.com)
-* [Substance](http://insubstantial.posterous.com/) (there is also a [GitHub repository](https://github.com/Insubstantial/insubstantial) for it)
+* [MigLayout](http://www.miglayout.com) (I used version 3.7.4) 
+* [Substance](http://insubstantial.posterous.com/) (I used version 7.0)
 
-If wish to run the program, the main class is `SubstanceWindowTitleFont`.
+If wish to run the demo, the main class is `SubstanceWindowTitleFont`.
