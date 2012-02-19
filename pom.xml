@@ -1,0 +1,24 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+	<modelVersion>4.0.0</modelVersion>
+	<groupId>SubstanceWindowTitleFont</groupId>
+	<artifactId>SubstanceWindowTitleFont</artifactId>
+	<version>0.0.1-SNAPSHOT</version>
+	<name>CellRenderer</name>
+	<description>Demonstrates the ability to change the font of the Window title in the Substance look and feel.</description>
+
+	<dependencies>
+		<dependency>
+			<groupId>org.java.net.substance</groupId>
+			<artifactId>substance</artifactId>
+			<version>[6,)</version>
+		</dependency>
+		<dependency>
+			<groupId>com.miglayout</groupId>
+			<artifactId>miglayout</artifactId>
+			<classifier>swing</classifier>
+			<version>[3,)</version>
+		</dependency>
+	</dependencies>
+
+</project>
