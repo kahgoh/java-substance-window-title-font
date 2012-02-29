@@ -2,7 +2,7 @@ Controlling the Window Title Font in the Substance Look and Feel
 ================================================================
 Project demonstrating how the font of the Window title can be controlled when using the [Substance](http://insubstantial.posterous.com/) look and feel. The demo displays a single dialog with a drop down box for choosing the Substance skin and another for choosing the font of the Window title.
 
-See also [Setting the Window Title Font with the Substance Look and Fee](http://kahdev.wordpress.com/2012/02/19/java-setting-the-window-title-font-in-the-substance-look-and-feel).
+See also [Setting the Window Title Font with the Substance Look and Feel](http://kahdev.wordpress.com/2012/02/19/java-setting-the-window-title-font-in-the-substance-look-and-feel).
 
 Project Notes
 -------------
